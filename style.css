@@ -1,0 +1,28 @@
+.project {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    
+}
+
+html {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    margin: 0px;
+    
+    font-size: 15pt;
+}
+
+.image {
+    height: 300px;
+    width: 500px;
+}
+
